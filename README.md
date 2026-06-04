@@ -19,3 +19,6 @@ python -m streamlit run app.py
 - `train_model.py` - Model training script
 - `app.py` - Streamlit web app
 - `model.pkl` - Saved ML model
+
+## 🌐 Live Demo
+👉 https://hemanthhp2005-student-performance-predictor.streamlit.app
